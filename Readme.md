@@ -2,7 +2,7 @@
 ---
 [Guía Xquery](https://docs.google.com/document/d/17W2AZrEdgAoe1Fj78LWI9BFmK5fHSHeidJe6C1l51Cc/edit?usp=sharing)
 
-Para poder tener la salida de las consultas en un fichero diferene:
+Para poder tener la salida de las consultas en un fichero diferente:
 
 ```
 file:write('ejemplo_consulta.html',
